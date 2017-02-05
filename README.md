@@ -1,3 +1,4 @@
-# Tutorial
+#Projet Lecture sequentielle
 
-This is my tutorial repository.
+Créer et d'utiliser des fichiers à organisation séquentielle et à organisation relative.
+ 
